@@ -1,6 +1,8 @@
 # Crime-Prediction-in-LA-Machine-Learning-for-Crime-Classification-and-Analysis
 The project involves building machine learning models to classify and predict crimes based on a dataset containing various features related to criminal activities. 
 
+The dataset used in this project is sourced from the official Los Angeles city government website, specifically the 'Crime Data from 2020 to Present' dataset available at 
+"https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8".
 
 # Project Overview:
 The project aims to develop machine learning models for crime classification and prediction based on a given dataset. The dataset likely contains various features related to criminal activities, such as location, time, type of crime, and potentially demographic information.
